@@ -12,6 +12,16 @@ body {
     background-color: dimgray;
 }
 
+.container1,
+.container2,
+.container3,
+.container4,
+.container5 {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+}
+
 
 .navbar {
     background-color: #0f1418;
@@ -73,6 +83,10 @@ img {
     line-height: 1.2;
 }
 
+h2 {
+    margin-bottom: 10px;
+}
+
 .header img {
     max-width: 500px;
 }
@@ -81,4 +95,3 @@ img {
     display: flex;
     align-items: center;
 }
-
