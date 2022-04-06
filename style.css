@@ -16,6 +16,7 @@ body {
 .navbar {
     background-color: #0f1418;
     color: #fff;
+    height: 65px;
 }
 
 .container1 {
