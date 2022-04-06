@@ -28,5 +28,8 @@ Today is the day to start with the Css file, it is already linked to the html fi
 
 ~ next add properties to the -body-. ill give it a family font, font size, line height, color and background color.
 
+NAVBAR: After giving some color to the navbar,
+ I use display flex to position the items on the main axis, then justify content to put a space between my logo and the bulletpoints items (with space-between)
 
+ now i have to align the items horizontally one next to each other...
 
