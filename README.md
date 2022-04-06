@@ -33,7 +33,9 @@ NAVBAR: After giving some color to the navbar,
 
 i will give the logo and the items some padding to left-right so it can separate a bit from the corners.
 
- now i have to align the items horizontally one next to each other...i will prefix the ul class to navbar and display flex it so the items (links) will sit horizontally (main axis).
+ <*1> now i have to align the items horizontally one next to each other ...i will prefix the ul class to navbar and display flex it so the items (links) will sit horizontally (main axis).
+
+ <*1> when i did that my navbar shrank from top and bottom, the solution will be to add a height on the .navbar. 
  
  I have to align the LOGO to the center of the container: display flex the class and align the items to the center will do it.
 
