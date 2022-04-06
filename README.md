@@ -31,5 +31,7 @@ Today is the day to start with the Css file, it is already linked to the html fi
 NAVBAR: After giving some color to the navbar,
  I use display flex to position the items on the main axis, then justify content to put a space between my logo and the bulletpoints items (with space-between)
 
+i will give the logo and the items some padding to left-right so it can separate a bit from the corners.
+
  now i have to align the items horizontally one next to each other...
 
