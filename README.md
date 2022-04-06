@@ -56,3 +56,5 @@ IMPORTANT!: when adding flexbox to .header .container2. Only my main text, h2 an
 Also, in order to have main text, h2 and button align vertically on the page with the styling (display:flex - alignitems:center), the three elements need to be inside <div>HERE</div>. not separated by individual ones. 
 
 ~BUTTON: I played around with it properties. I also added a hover to the button, which makes it look great!.
+
+IMPORTANT (2): I realized after scrolling down the page, that my second button in container5, has all the properties of the one in container2. So, after carefully inspecting the code, I realized that I have to prefix with .header my first button (the one in container2) so the properties will only affect this one. Leaving the other one free of properties. 
