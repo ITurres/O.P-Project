@@ -27,5 +27,15 @@ body {
 .logo {
     display: flex;
     align-items: center;
-    
+    font-style: italic;
+    font-size: large;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+   list-style: none;
 }
