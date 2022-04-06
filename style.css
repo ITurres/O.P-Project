@@ -96,7 +96,7 @@ h2 {
     align-items: center;
 }
 
-button {
+.header button {
     background-color: #6c2922;
     padding: 10px 15px;
     border-radius: 20px;
