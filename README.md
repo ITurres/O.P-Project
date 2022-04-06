@@ -54,3 +54,5 @@ then the header main text (h1) and last the img.
 IMPORTANT!: when adding flexbox to .header .container2. Only my main text, h2 and the button will flex, cause i forgot  (in HTML file) to open a <div> between "class="container2" and class "h1". close it before img element.
 
 Also, in order to have main text, h2 and button align vertically on the page with the styling (display:flex - alignitems:center), the three elements need to be inside <div>HERE</div>. not separated by individual ones. 
+
+~BUTTON: I played around with it properties.
