@@ -47,15 +47,38 @@ a {
     color: #fff;
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
-    font-weight: 600;
-    
+    font-weight: 600;    
 }
 
 li {
-   list-style: none;
-   
+   list-style: none;  
 }
 
-h1 .p{ 
-    color: #ba1b23;
+
+
+img {
+    max-width: 100px;
 }
+
+.header {
+    background-color: #6c2922;
+    padding: 20px;
+}
+
+.header h1 {
+    font-size: 3em;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 10px;
+    line-height: 1.2;
+}
+
+.header img {
+    max-width: 500px;
+}
+
+.header .container2 {
+    display: flex;
+    align-items: center;
+}
+
