@@ -45,3 +45,10 @@ i will give the logo and the items some padding to left-right so it can separate
 
  remove: bulletpoints and underline.
 
+~HEADER:
+
+first style the .header class with background color and a general padding.
+
+then the header main text (h1) and last the img.
+
+IMPORTANT!: when adding flexbox to .header .container2. Only my main text, h2 and the button will flex, cause i forgot to open a <div> between "class="container2" and class "h1". close it before img element.
