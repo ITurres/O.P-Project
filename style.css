@@ -1,5 +1,14 @@
 * {
     box-sizing: border-box;
-    padding: 0%;
-    margin: 0%;
+    padding: 0;
+    margin: 0;
 }
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+    line-height: 1.5;
+    color: rgb(41, 30, 30);
+    background-color: dimgray;
+}
+
