@@ -33,6 +33,10 @@ body {
     font-weight: 700;
 }
 
+.navbar ul {
+    display: flex;
+}
+
 a {
     text-decoration: none;
     color: #fff;
