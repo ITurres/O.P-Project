@@ -24,8 +24,9 @@ body {
     padding: 0px 20px;   
 }
 
-.logo {
+.navbar .logo {
     display: flex;
+    align-items: center;
     align-items: center;
     font-style: italic;
     font-size: large;
@@ -34,6 +35,10 @@ body {
 
 a {
     text-decoration: none;
+    color: #fff;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 600;
 }
 
 li {
