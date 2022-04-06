@@ -33,5 +33,7 @@ NAVBAR: After giving some color to the navbar,
 
 i will give the logo and the items some padding to left-right so it can separate a bit from the corners.
 
- now i have to align the items horizontally one next to each other...display flex the class and align the items to the center will do it.
+ now i have to align the items horizontally one next to each other...
+ 
+ I have to align the LOGO to the center of the container: display flex the class and align the items to the center will do it.
 
