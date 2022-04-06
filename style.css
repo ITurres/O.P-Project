@@ -19,16 +19,15 @@ body {
     height: 65px;
 }
 
-.container1 {
+.navbar .container1 {
     display: flex;
+    align-items: center;
     justify-content: space-between; 
-    padding: 0px 20px;   
+    padding: 0px 20px; 
+    height: 100%;
 }
 
 .navbar .logo {
-    display: flex;
-    align-items: center;
-    align-items: center;
     font-style: italic;
     font-size: large;
     font-weight: 700;
@@ -36,6 +35,11 @@ body {
 
 .navbar ul {
     display: flex;
+    gap: 10px;
+}
+
+.navbar a:hover {
+    color: #ba1b23;
 }
 
 a {
@@ -44,8 +48,14 @@ a {
     font-style: italic;
     font-family: 'Courier New', Courier, monospace;
     font-weight: 600;
+    
 }
 
 li {
    list-style: none;
+   
+}
+
+h1 .p{ 
+    color: #ba1b23;
 }
