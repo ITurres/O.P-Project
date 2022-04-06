@@ -37,3 +37,5 @@ i will give the logo and the items some padding to left-right so it can separate
  
  I have to align the LOGO to the center of the container: display flex the class and align the items to the center will do it.
 
+ remove: bulletpoints and underline.
+
