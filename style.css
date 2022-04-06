@@ -12,3 +12,14 @@ body {
     background-color: dimgray;
 }
 
+
+.navbar {
+    background-color: #0f1418;
+    color: #fff;
+}
+
+.container1 {
+    display: flex;
+    justify-content: space-between;    
+}
+
