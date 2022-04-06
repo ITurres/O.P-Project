@@ -26,7 +26,7 @@ Today is the day to start with the Css file, it is already linked to the html fi
 
 ~ I will first add general properties (*) to the page, such as box sizing - padding and margin.-
 
-
+~ next add properties to the -body-. ill give it a family font, font size, line height, color and background color.
 
 
 
