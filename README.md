@@ -20,4 +20,13 @@ and finally ill add a footer to the page.
 all in all, has gone okay. ill see later how my html file will react with the css styling (might need to do some changes though).
 ~~~~~~~~~
 
+06/04/2022
+
+Today is the day to start with the Css file, it is already linked to the html file, so lets begin
+
+~ I will first add general properties (*) to the page, such as box sizing - padding and margin.-
+
+
+
+
 
