@@ -64,12 +64,6 @@ li {
    list-style: none;  
 }
 
-
-
-.header img {
-    max-width: 100px;
-}
-
 .header {
     background-color: #6c2922;
     padding: 20px;
