@@ -71,3 +71,6 @@ the aim will be to align the items horizontally, keeping the text below the item
 
 2)Second: For the items, only need to be flex and justify to the center. Add gap.
 Regarding the text below the items: Add align text: center.
+
+the images will need a max-width, and regarding the text below the images, I will add some properties to it.
+
