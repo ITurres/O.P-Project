@@ -115,6 +115,7 @@ h2 {
 
 .subtitle {
     background-color: #4a5a5b;
+    color: #fff;
     display: flex;
     justify-content: center;
     font-weight: bold;
