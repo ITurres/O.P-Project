@@ -65,6 +65,9 @@ Today i will style the container3 - that holds a subtitle and four similar items
 
 the aim will be to align the items horizontally, keeping the text below the item with space between them and a large margin between the edges of the page and the so call items. 
 
-first: for the subtitle, i will display flex it and justify it to the center, i will also give some top and bottom padding so it can have some space to be itself.
+1)first: for the subtitle, i will display flex it and justify it to the center, i will also give some top and bottom padding so it can have some space to be itself.
 
 *Regarding subtitle: Erase it from container3 and move it above, and give the class "Subtitle". so we can display flex just the items.
+
+2)Second: For the items, only need to be flex and justify to the center. Add gap.
+Regarding the text below the items: Add align text: center.
