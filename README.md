@@ -80,4 +80,11 @@ the images and the background of the text will have rounded edges, so i will hav
 PROBLEM!>: the max-width of 1200px that I added to all the containers is not working after (including)-container3-.
 I inspected it with google and container3 and later have a very large margin. 
 
-My theory:
+My theory: container1 and container2 have grandparents. whereas the rest lack.
+somehow the properties apply to the ones with and the ones without suffer the consequences of now having margin...
+
+Likely Solutions: 
+
+1* have the containers unnumbered, therefore the properties will apply to all of them. but in css i will have to prefix each one of them with their respective grandparent, for them to have different attributes. 
+
+2* number two will give a "grandparent class" to the containers without...
