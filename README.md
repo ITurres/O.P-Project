@@ -74,3 +74,10 @@ Regarding the text below the items: Add align text: center.
 
 the images will need a max-width, and regarding the text below the images, I will add some properties to it.
 
+the images and the background of the text will have rounded edges, so i will have to apply the border-radius to the classes.
+////////
+
+PROBLEM!>: the max-width of 1200px that I added to all the containers is not working after (including)-container3-.
+I inspected it with google and container3 and later have a very large margin. 
+
+My theory:
