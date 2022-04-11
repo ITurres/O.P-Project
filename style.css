@@ -118,7 +118,7 @@ h2 {
 }
 
 .container3 {
-    background-color: #4a5a5b ;
+    background-color: #4a5a5b;
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -126,9 +126,10 @@ h2 {
     text-align: center;
 }
 
-.info img{
+.info img {
     max-width: 200px;
     border-radius: 20px;
+    border: solid #0f1418;
 }
 
 .info .text {
