@@ -133,3 +133,9 @@ h2 {
 .info img{
     max-width: 200px;
 }
+
+.info .text {
+    font-size: larger;
+    font-weight: 700;
+    font-style: italic;
+}
