@@ -64,3 +64,5 @@ IMPORTANT (2): I realized after scrolling down the page, that my second button i
 Today i will style the container3 - that holds a subtitle and four similar items with some text under it.
 
 the aim will be to align the items horizontally, keeping the text below the item with space between them and a large margin between the edges of the page and the so call items. 
+
+first: for the subtitle, i will display flex it and justify it to the center, i will also give some top and bottom padding so it can have some space to be itself.
