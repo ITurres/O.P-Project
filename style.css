@@ -117,6 +117,7 @@ h2 {
     background-color: #4a5a5b;
     display: flex;
     justify-content: center;
+    font-weight: bold;
     font-size: 2em;
     padding: 40px 0px;
 }
