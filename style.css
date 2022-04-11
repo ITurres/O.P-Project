@@ -125,8 +125,11 @@ h2 {
     background-color: #4a5a5b ;
     display: flex;
     justify-content: center;
-    gap: 20px;
+    gap: 30px;
     padding-bottom: 40px;
     text-align: center;
 }
 
+.info img{
+    max-width: 200px;
+}
