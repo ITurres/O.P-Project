@@ -88,3 +88,5 @@ Likely Solutions:
 1* have the containers unnumbered, therefore the properties will apply to all of them. but in css i will have to prefix each one of them with their respective grandparent, for them to have different attributes. 
 
 2* number two will give a "grandparent class" to the containers without...
+
+3* the third and last, will be to fusion both of first solutions, remove the numbers on the containers and  give them all grandparents. I believe that this one will be more clean and work better.
