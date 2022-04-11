@@ -137,6 +137,9 @@ h2 {
 }
 
 .info .text {
+    background-color: #6c2922;
+    color: #fff;
+    border-radius: 10px;
     font-size: larger;
     font-weight: 700;
     font-style: italic;
