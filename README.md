@@ -67,4 +67,4 @@ the aim will be to align the items horizontally, keeping the text below the item
 
 first: for the subtitle, i will display flex it and justify it to the center, i will also give some top and bottom padding so it can have some space to be itself.
 
-*Regarding subtitle: Erase it from container3 and move it above, and give it a new class. so we can display flex just the items.
+*Regarding subtitle: Erase it from container3 and move it above, and give the class "Subtitle". so we can display flex just the items.
