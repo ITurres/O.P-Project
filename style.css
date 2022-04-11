@@ -117,3 +117,11 @@ h2 {
 
 }
 
+.subtitle {
+    background-color: #4a5a5b;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    padding: 40px 0px;
+}
+
