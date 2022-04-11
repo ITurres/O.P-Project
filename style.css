@@ -111,3 +111,18 @@ h2 {
     color: #0f1418;
     background-color: #ba1b23;
 }
+
+.container3 {
+    background-color: #4a5a5b;
+
+}
+
+.container3 h2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    font-size: 2em;
+
+}
