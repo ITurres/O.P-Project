@@ -58,3 +58,9 @@ Also, in order to have main text, h2 and button align vertically on the page wit
 ~BUTTON: I played around with it properties. I also added a hover to the button, which makes it look great!.
 
 IMPORTANT (2): I realized after scrolling down the page, that my second button in container5, has all the properties of the one in container2. So, after carefully inspecting the code, I realized that I have to prefix with .header my first button (the one in container2) so the properties will only affect this one. Leaving the other one free of properties. 
+~~~~~~~~~
+11/04/2022
+
+Today i will style the container3 - that holds a subtitle and four similar items with some text under it.
+
+the aim will be to align the items horizontally, keeping the text below the item with space between them and a large margin between the edges of the page and the so call items. 
