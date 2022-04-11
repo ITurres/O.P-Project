@@ -112,10 +112,6 @@ h2 {
     background-color: #ba1b23;
 }
 
-.container3 {
-    background-color: #4a5a5b;
-
-}
 
 .subtitle {
     background-color: #4a5a5b;
@@ -123,5 +119,14 @@ h2 {
     justify-content: center;
     font-size: 2em;
     padding: 40px 0px;
+}
+
+.container3 {
+    background-color: #4a5a5b ;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-bottom: 40px;
+    text-align: center;
 }
 
