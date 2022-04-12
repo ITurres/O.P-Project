@@ -38,7 +38,7 @@ body {
 
 .navbar .logo {
     font-style: italic;
-    font-size: large;
+    font-size: x-large;
     font-weight: 700;
 }
 
@@ -207,3 +207,4 @@ h2 {
     background-color: #fff;
     color: #ba1b23;
 }
+
