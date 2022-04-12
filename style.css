@@ -152,3 +152,17 @@ h2 {
     font-size: large;
 }
 
+.boxes {
+    background-color: #baaeaa;
+    padding: 70px 0px;
+}
+
+.boxes .container {
+    display: flex;
+    background-color: #ba1b23;
+    padding: 40px 20px;
+    justify-content: space-around;
+    justify-items: center;
+    border-radius: 10px;
+}
+
