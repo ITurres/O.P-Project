@@ -81,11 +81,11 @@ PROBLEM!>: the max-width of 1200px that I added to all the containers is not wor
 I inspected it with google and container3 and later have a very large margin. 
 
 My theory: container1 and container2 have grandparents. whereas the rest lack.
-somehow the properties apply to the ones with and the ones without suffer the consequences of now having margin...
+somehow the properties apply to the ones with and the ones without suffer the consequences of now having margin...*this was true, but also its important to note that in the style file the properties that should have been given to the grandparent (x), were given to the parent (container3), therefore the margin was apply to the parent.
 
 Likely Solutions: 
 
-1* have the containers unnumbered, therefore the properties will apply to all of them. but in css i will have to prefix each one of them with their respective grandparent, for them to have different attributes. 
+1* have the containers unnumbered, therefore the properties will apply to all of them. but in css i will have to prefix each one of them with their respective grandparent, for them to have different attributes. DIDN'T WORK.
 
 2* number two will give a "grandparent class" to the containers without...
 
