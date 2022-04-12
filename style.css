@@ -213,3 +213,21 @@ h2 {
 }
 
 
+@media (max-width: 800px) {
+ .header .container {
+     display: flex;
+     flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     text-align: center;
+}
+
+.header img {
+    margin-top: 20px;
+}
+
+
+
+
+
+}
