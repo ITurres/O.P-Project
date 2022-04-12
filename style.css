@@ -202,3 +202,8 @@ h2 {
     font-size: large;
     color: #fff;   
 }
+
+.boxes button:hover {
+    background-color: #fff;
+    color: #ba1b23;
+}
