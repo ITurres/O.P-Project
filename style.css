@@ -44,7 +44,7 @@ body {
 
 .navbar ul {
     display: flex;
-    gap: 10px;
+    gap: 30px;
 }
 
 .navbar a:hover {
