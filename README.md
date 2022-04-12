@@ -100,3 +100,14 @@ The plan for tomorrow will be to:
 *Change all the dummy text with proper text/info.
 *Check everything if needed to be resized, etc.
 *Make the page responsive to shrink and grow and organize items, etc (with media queries, etc).
+~~~~~~~~~~~~`
+12/04/2022
+
+Plan:
+ first: Change all the dummy text with proper text/info.
+
+ so then I can
+ 
+*Make the page responsive to shrink and grow and  organize items, etc (with media queries, etc).
+
+*Check everything if needed to be resized, etc.
