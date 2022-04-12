@@ -163,6 +163,7 @@ h2 {
     padding: 40px 20px;
     justify-content: space-around;
     justify-items: center;
+    align-items: center;
     border-radius: 10px;
 }
 
