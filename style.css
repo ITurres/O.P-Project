@@ -141,3 +141,14 @@ h2 {
     font-style: italic;
 }
 
+.texto {
+    background-color: #8a9592;
+    padding: 100px 0px;
+}
+
+.texto .container {
+    display: flex;
+    justify-content: center;
+    font-size: large;
+}
+
