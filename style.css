@@ -188,3 +188,9 @@ h2 {
     font-weight: 700;
 }
 
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+}
