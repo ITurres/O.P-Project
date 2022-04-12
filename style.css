@@ -135,6 +135,10 @@ h2 {
     border: solid #0f1418;
 }
 
+.info img:hover {
+    border: solid #fff;
+}
+
 .info .text {
     background-color: #6c2922;
     color: #fff;
