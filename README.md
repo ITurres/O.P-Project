@@ -89,4 +89,4 @@ Likely Solutions:
 
 2* number two will give a "grandparent class" to the containers without...
 
-3* the third and last, will be to fusion both of first solutions, remove the numbers on the containers and  give them all grandparents. I believe that this one will be more clean and work better.
+3* the third and last, will be to fusion both of first solutions, remove the numbers on the containers and  give them all grandparents. IMPORTANT in css (prefix each "container" with the respective grandparent) I believe that this one will be more clean and work better. IT WORKED!!!!
