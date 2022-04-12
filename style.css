@@ -238,6 +238,8 @@ h2 {
     margin-bottom: 20px;
 }
 
-
+.texto .container {
+    text-align: center;
+}
 
 }
