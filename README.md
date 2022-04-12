@@ -94,3 +94,9 @@ Likely Solutions:
 /////////
 
 The footer: I need to make sure the footer stays at the bottom of the page, in order to achieve that i have to display flex the {body} justify the content with space in between and the flex direction has to be VERTICAL hence "Column".
+
+The plan for tomorrow will be to:
+
+*Change all the dummy text with proper text/info.
+*Check everything if needed to be resized, etc.
+*Make the page responsive to shrink and grow and organize items, etc (with media queries, etc).
