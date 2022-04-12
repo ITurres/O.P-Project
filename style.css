@@ -141,7 +141,7 @@ h2 {
     border-radius: 10px;
     padding: 10px 0px;
     margin-top: 10px;
-    font-size: larger;
+    font-size: medium;
     font-weight: 700;
     font-style: italic;
 }
@@ -207,4 +207,5 @@ h2 {
     background-color: #fff;
     color: #ba1b23;
 }
+
 
