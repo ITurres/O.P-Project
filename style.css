@@ -5,6 +5,9 @@
 }
 
 body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
     font-family: 'Courier New', Courier, monospace;
     font-size: 15px;
     line-height: 1.4;
@@ -168,7 +171,6 @@ h2 {
 }
 
 .box {
-    
     font-size: large;
     font-weight: 700;
     color: #fff;
@@ -185,3 +187,4 @@ h2 {
     font-size: medium;
     font-weight: 700;
 }
+
