@@ -12,11 +12,7 @@ body {
     background-color: dimgray;
 }
 
-.container1,
-.container2,
-.container3,
-.container4,
-.container5 {
+.container {
     max-width: 1200px;
     margin: 0 auto;
     padding: 0 30px;
@@ -29,7 +25,7 @@ body {
     height: 65px;
 }
 
-.navbar .container1 {
+.navbar .container {
     display: flex;
     align-items: center;
     justify-content: space-between; 
@@ -85,7 +81,7 @@ h2 {
     max-width: 500px;
 }
 
-.header .container2 {
+.header .container {
     display: flex;
     align-items: center;
 }
@@ -117,8 +113,12 @@ h2 {
     padding: 40px 0px;
 }
 
-.container3 {
+.main {
     background-color: #4a5a5b;
+    padding-bottom: 40px;
+}
+
+.main .container {
     display: flex;
     justify-content: center;
     gap: 30px;
@@ -140,3 +140,4 @@ h2 {
     font-weight: 700;
     font-style: italic;
 }
+
