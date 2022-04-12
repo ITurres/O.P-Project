@@ -226,7 +226,17 @@ h2 {
     margin-top: 20px;
 }
 
+.subtitle {
+    text-align: center;
+}
 
+.main .container {
+    display: block;
+}
+
+.info .text {
+    margin-bottom: 20px;
+}
 
 
 
