@@ -179,7 +179,7 @@ h2 {
 .boxes button {
     background-color: #ba1b23;
     color: #fff;
-    padding: 10px 15px;
+    padding: 10px 30px;
     border-radius: 10px;
     border: #fff;
     border-style: solid;
@@ -198,6 +198,5 @@ h2 {
 .footer h4 {
     border-radius: 15px;
     font-size: large;
-    color: #fff;
-    
+    color: #fff;   
 }
