@@ -194,3 +194,10 @@ h2 {
     align-items: center;
     height: 60px;
 }
+
+.footer h4 {
+    border-radius: 15px;
+    font-size: large;
+    color: #fff;
+    
+}
