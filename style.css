@@ -82,6 +82,7 @@ h2 {
 
 .header img {
     max-width: 500px;
+    border-radius: 15px;
 }
 
 .header .container {
