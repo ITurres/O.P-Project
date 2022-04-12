@@ -167,8 +167,20 @@ h2 {
 }
 
 .box {
+    
     font-size: large;
     font-weight: 700;
     color: #fff;
 }
 
+.boxes button {
+    background-color: #ba1b23;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: #fff;
+    border-style: solid;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    font-weight: 700;
+}
