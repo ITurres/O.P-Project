@@ -251,7 +251,12 @@ h2 {
     text-align: center;
 }
 
+.boxes .box {
+    margin-right: 50px;
+}
+
 .boxes button {
     margin-top: 25px;
+    margin-left: 65px;
 }
 }
