@@ -181,6 +181,8 @@ h2 {
     font-size: large;
     font-weight: 700;
     color: #fff;
+    flex-basis: 100px;
+    flex-grow: 1;   
 }
 
 .boxes button {
@@ -193,6 +195,7 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: medium;
     font-weight: 700;
+    flex-shrink: 0;
 }
 
 .footer {
