@@ -107,7 +107,17 @@ Plan:
  first: Change all the dummy text with proper text/info.
 
  so then I can
- 
+
 *Make the page responsive to shrink and grow and  organize items, etc (with media queries, etc).
 
 *Check everything if needed to be resized, etc.
+
+~~~~~~~~~~~~
+
+13/04/2022
+
+Today I added multiple attributes to some items for them to work properly when shrinking and growing, also added in the media queries.
+
+To the date the page works well, everything shrinks and grows at normal rate.
+
+~~~~~~~~~~~~
