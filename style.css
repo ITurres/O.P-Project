@@ -175,6 +175,11 @@ h2 {
     border-radius: 10px;
 }
 
+.texto strong {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .box {
     font-size: large;
     font-weight: 700;
