@@ -180,7 +180,8 @@ h2 {
     font-weight: 700;
     color: #fff;
     flex-basis: 100px;
-    flex-grow: 1;   
+    flex-grow: 1;
+    margin-left: 60px;   
 }
 
 .boxes button {
@@ -194,6 +195,7 @@ h2 {
     font-size: medium;
     font-weight: 700;
     flex-shrink: 0;
+    margin-right: 60px;
 }
 
 .footer {
