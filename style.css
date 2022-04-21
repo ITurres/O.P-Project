@@ -224,7 +224,7 @@ h2 {
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 768px) {
  .header .container {
      display: flex;
      flex-direction: column;
