@@ -122,3 +122,12 @@ To the date the page works well, everything shrinks and grows at normal rate.
 
 ~~~~~~~~~~~~
 test.
+~~~~~~~~~~~~
+
+18/05/2022
+
+The idea this time, after working a bit with javaScript and getting to know RegEx is to create a second webpage for the signup form (with feedback and validation) using Regular Expressions.
+
+First, we will create a new html file named; signup.html, it will have the same structure as our main page and the same CSS styles. Plus adding some new features for the sake of this little project.
+
+Next, it will be linked to our index.html. 
