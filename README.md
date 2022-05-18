@@ -1,5 +1,5 @@
 # O.P-Project
-PROJECT: LANDING PAGE
+PROJECT: LANDING PAGE + signup form (with feedback and validation) using RegEx.
 
 <05-04-2022>
 
