@@ -21,3 +21,44 @@ body {
     padding: 0 30px;
   }
 
+  .navbar {
+    background-color: #0f1418;
+    color: #fff;
+    height: 65px;
+  }
+  
+  .navbar .container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0px 20px;
+    height: 100%;
+  }
+  
+  .navbar .logo {
+    font-style: italic;
+    font-size: x-large;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+  
+  .navbar ul {
+    display: flex;
+    gap: 30px;
+  }
+  
+  .navbar a:hover {
+    color: #ba1b23;
+  }
+  
+  a {
+    text-decoration: none;
+    color: #fff;
+    font-style: italic;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+  }
+  
+  li {
+    list-style: none;
+  }
