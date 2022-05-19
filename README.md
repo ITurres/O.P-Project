@@ -131,3 +131,5 @@ The idea this time, after working a bit with javaScript and getting to know RegE
 First, we will create a new html file named; signup.html, it will have the same structure as our main page and the same CSS styles. Plus adding some new features for the sake of this little project.
 
 Next, it will be linked to our index.html. 
+
+IMPORTANT: our signup form won't collect any data after clicking 'OK'.
