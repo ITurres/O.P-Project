@@ -122,3 +122,18 @@ form {
   color: #0f1418;
   background-color: #ba1b23;
 }
+
+.footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 60px;
+  padding: 20px;
+  background-color: #0f1418;
+}
+
+.footer h4 {
+  border-radius: 15px;
+  font-size: large;
+  color: #fff;
+}
