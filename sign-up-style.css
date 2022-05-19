@@ -1,64 +1,71 @@
 * {
-    box-sizing: border-box;
-    padding: 0;
-    margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
 }
 
 body {
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    font-family: "Courier New", Courier, monospace;
-    font-size: 15px;
-    line-height: 1.4;
-    color: rgb(41, 30, 30);
-    background-color: dimgray;
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Courier New", Courier, monospace;
+  font-size: 15px;
+  line-height: 1.4;
+  color: rgb(41, 30, 30);
+  background-color: dimgray;
+}
 
 .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 30px;
-  }
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 0 30px;
+}
 
-  .navbar {
-    background-color: #0f1418;
-    color: #fff;
-    height: 65px;
-  }
-  
-  .navbar .container {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0px 20px;
-    height: 100%;
-  }
-  
-  .navbar .logo {
-    font-style: italic;
-    font-size: x-large;
-    font-weight: 700;
-    line-height: 1.2;
-  }
-  
-  .navbar ul {
-    display: flex;
-    gap: 30px;
-  }
-  
-  .navbar a:hover {
-    color: #ba1b23;
-  }
-  
-  a {
-    text-decoration: none;
-    color: #fff;
-    font-style: italic;
-    font-family: "Courier New", Courier, monospace;
-    font-weight: 600;
-  }
-  
-  li {
-    list-style: none;
-  }
+.navbar {
+  background-color: #0f1418;
+  color: #fff;
+  height: 65px;
+}
+
+.navbar .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0px 20px;
+  height: 100%;
+}
+
+.navbar .logo {
+  font-style: italic;
+  font-size: x-large;
+  font-weight: 700;
+  line-height: 1.2;
+}
+
+.navbar ul {
+  display: flex;
+  gap: 30px;
+}
+
+.navbar a:hover {
+  color: #ba1b23;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  font-style: italic;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: 600;
+}
+
+li {
+  list-style: none;
+}
+
+.container-h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #6c2922;
+}
