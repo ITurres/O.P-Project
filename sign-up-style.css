@@ -14,3 +14,10 @@ body {
     color: rgb(41, 30, 30);
     background-color: dimgray;
   }
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 30px;
+  }
+
