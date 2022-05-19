@@ -4,3 +4,13 @@
     margin: 0;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    font-family: "Courier New", Courier, monospace;
+    font-size: 15px;
+    line-height: 1.4;
+    color: rgb(41, 30, 30);
+    background-color: dimgray;
+  }
