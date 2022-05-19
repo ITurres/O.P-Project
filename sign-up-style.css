@@ -87,10 +87,10 @@ li {
 }
 
 .header input {
-    border: solid #0f1418;
-    border-radius: 5px;
-    font-size: 1.5em;
-    padding: 5px;
+  border: solid #0f1418;
+  border-radius: 5px;
+  font-size: 1.5em;
+  padding: 5px;
 }
 
 form {
@@ -98,4 +98,27 @@ form {
   flex-direction: column;
   justify-content: center;
   width: 400px;
+}
+
+.signUpButton-ok {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.signUpButton-ok button {
+  background-color: #6c2922;
+  padding: 10px 25px;
+  border-radius: 20px;
+  border: #0f1418;
+  border-style: outset;
+  font-family: "Courier New", Courier, monospace;
+  font-size: medium;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.signUpButton-ok button:hover {
+  color: #0f1418;
+  background-color: #ba1b23;
 }
