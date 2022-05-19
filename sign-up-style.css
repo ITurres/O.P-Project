@@ -69,3 +69,14 @@ li {
   align-items: center;
   background-color: #6c2922;
 }
+
+.header {
+  background-color: #6c2922;
+  padding: 20px;
+}
+
+.header .container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
