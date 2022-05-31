@@ -79,6 +79,7 @@ li {
 .header {
   background-color: #6c2922;
   padding: 20px;
+  height: 100%; /* check heigh in body for more info about why this */
 }
 
 .header .container {
