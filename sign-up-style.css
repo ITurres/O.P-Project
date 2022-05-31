@@ -13,6 +13,7 @@ body {
   line-height: 1.4;
   color: rgb(41, 30, 30);
   background-color: dimgray;
+  height: 100vh; /*This + the height 100% in the header container will push the footer down and keep it static at the bottom*/
 }
 
 .container {
