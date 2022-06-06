@@ -227,6 +227,8 @@ h2 {
   color: #ba1b23;
 }
 
+/* MEDIA QUERIES*/
+
 @media (max-width: 768px) {
   .header .container {
     display: flex;
@@ -281,4 +283,22 @@ h2 {
     margin-top: 25px;
     margin-left: 65px;
   }
+}
+
+/*2d*/
+  
+@media (max-width: 480px) {
+
+  .main .container {
+    display: block;
+  }
+}
+
+/*3rd*/
+
+@media (max-width: 1024px) {
+  .info img {
+    max-width: 180px;
+  }
+
 }
