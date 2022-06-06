@@ -247,10 +247,12 @@ h2 {
 
   .subtitle {
     text-align: center;
+    font-size: 1.5em;
   }
 
   .main .container {
-    display: block;
+    display: grid;
+    grid-template: 300px 300px / 250px 250px;
   }
 
   .info .text {
@@ -259,11 +261,13 @@ h2 {
 
   .texto .container {
     text-align: center;
+    margin: 0 15px 0 15px;
   }
 
   .boxes .container {
     display: block;
     text-align: center;
+    width: max(500px);
   }
 
   .boxes .box {
