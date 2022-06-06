@@ -46,7 +46,6 @@ body {
 
 .navbar ul {
   display: flex;
-  gap: 30px;
 }
 
 .navbar a:hover {
@@ -118,7 +117,7 @@ h2 {
   justify-content: center;
   font-weight: bold;
   font-size: 2em;
-  padding: 40px 0px;
+  padding: 40px 30px;
 }
 
 .main {
@@ -130,7 +129,7 @@ h2 {
   display: flex;
   justify-content: center;
   gap: 30px;
-  padding-bottom: 40px;
+  padding: 0 10px 0 10px;
   text-align: center;
 }
 
@@ -148,7 +147,7 @@ h2 {
   background-color: #6c2922;
   color: #fff;
   border-radius: 10px;
-  padding: 10px 0px;
+  padding: 10px;
   margin-top: 10px;
   font-size: medium;
   font-weight: 700;
@@ -157,7 +156,7 @@ h2 {
 
 .texto {
   background-color: #8a9592;
-  padding: 100px 0px;
+  padding: 100px 30px;
 }
 
 .texto .container {
@@ -168,7 +167,7 @@ h2 {
 
 .boxes {
   background-color: #baaeaa;
-  padding: 70px 0px;
+  padding: 70px 30px;
 }
 
 .boxes .container {
@@ -241,8 +240,13 @@ h2 {
     line-height: 1.2;
   }
 
+  .navbar ul {
+    text-align: center;
+  }
+
   .header img {
     margin-top: 20px;
+    max-width: 100%;
   }
 
   .subtitle {
@@ -252,7 +256,7 @@ h2 {
 
   .main .container {
     display: grid;
-    grid-template: 300px 300px / 250px 250px;
+    grid-template: 30fr 30fr / 25fr 25fr;
   }
 
   .info .text {
@@ -267,7 +271,6 @@ h2 {
   .boxes .container {
     display: block;
     text-align: center;
-    width: max(500px);
   }
 
   .boxes .box {
